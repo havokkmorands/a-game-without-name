@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3bc870a5f837c4eae5fb559da4d392, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 5358931284356699603, guid: c4e60e22640cb004a9504f9b67519e6d, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Ruallyson
+    profile: {fileID: 2203037612859406267, guid: efd4e803175a5c84a912b78d12892a09, type: 3}
+    sentence:
+      portuguese: Kanonn Corno!
+      english: "Kanonn chifrud\xE3o"
+      spanish: LINGUA DE CORNO
+  - actorName: 
+    profile: {fileID: -8690178428761904197, guid: efd4e803175a5c84a912b78d12892a09, type: 3}
+    sentence:
+      portuguese: "Kanonn Corn\xE3o!"
+      english: 
+      spanish: 
